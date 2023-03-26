@@ -7,7 +7,7 @@ Apaixonado por tecnologia, esportes, livros e drones.
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
 </a>
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iesley-ferreira/iesley-ferreira/blob/output/github-contribution-grid-snake.svg)
 
 ## Stack utilizada
 
