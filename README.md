@@ -1,4 +1,5 @@
-## Olá! Eu sou Iesley Ferreira. Estudante da Trybe, futuro desenvolvedor full-stack.. 🛸
+## Olá! Eu sou Iesley Ferreira. 🛸
+Estudante da Trybe, futuro desenvolvedor full-stack. 
 Apaixonado por tecnologia, esportes, livros e drones.
 
 <a href="https://github.com/duribeiro">
