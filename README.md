@@ -9,7 +9,6 @@ Apaixonado por tecnologia, esportes, livros e drones.
 ![Snake animation](https://github.com/iesley-ferreira/iesley-ferreira/blob/output/github-contribution-grid-snake.svg)
 
 ## Stack utilizada
-<hr>
 
 **Front-end:**   
 <a href="https://github.com/iesley-ferreira/github-readme-stats">
@@ -31,7 +30,7 @@ Apaixonado por tecnologia, esportes, livros e drones.
 
 
 ## Feedback
-<hr>
+
 Se você tiver algum feedback, por favor entre em contato.
 <br>
 <br>
