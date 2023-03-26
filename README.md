@@ -33,7 +33,7 @@ Apaixonado por tecnologia, esportes, livros e drones.
 Se você tiver algum feedback, por favor entre em contato.
 <br>
 <br>
-<a href="https://www.instagram.com/iesleyferreira/" target="_blank">
+<a href="https://www.instagram.com/iesleyferreira/" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="www.linkedin.com/in/iesley-ferreira" target="_blank">
