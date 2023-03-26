@@ -33,15 +33,15 @@ Apaixonado por tecnologia, esportes, livros e drones.
 Se você tiver algum feedback, por favor entre em contato.
 <br>
 <br>
-<a href="https://www.instagram.com/iesleyferreira/">
+<a target="_blank" href="https://www.instagram.com/iesleyferreira/">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/iesley-ferreira">
+<a target="_blank" href="www.linkedin.com/in/iesley-ferreira">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://whatsa.me/5553984097585">
+<a target="_blank" href="https://whatsa.me/5553984097585">
   <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="mailto:iesley_ferreira@hotmail.com?subject=Fala comigo!&body=">
+<a target="_blank" href="mailto:iesley_ferreira@hotmail.com?subject=Fala comigo!&body=">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
