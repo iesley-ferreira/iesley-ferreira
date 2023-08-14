@@ -2,9 +2,9 @@
 Estudante da Trybe, futuro desenvolvedor full-stack. 
 Apaixonado por tecnologia, esportes, livros e drones.
 
-<a href="https://github.com/duribeiro">
+<a href="https://github.com/iesley-ferreira">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iesley-ferreira&show_icons=true&count_private=true&theme=radical"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesley-ferreira&layout=compact&theme=radical"/>
 </a>
 
 ## Stack utilizada
