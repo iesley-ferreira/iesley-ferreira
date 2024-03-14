@@ -15,10 +15,10 @@ Desenvolvedor full-stack.
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://whatsa.me/5553984097585" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=whatsapp" />
+  <img align="center" style="width: 48px ; height: 48px; border-radius: 10px;" src="whatsapp.png" />
 </a>
 <a href="mailto:iesley_ferreira@hotmail.com?subject=Fala comigo!&body=" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" />
+  <img align="center"  src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <br>
 <br>
