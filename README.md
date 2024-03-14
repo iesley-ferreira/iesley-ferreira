@@ -1,43 +1,31 @@
 ## Olá! Eu sou Iesley Ferreira. 🛸
-Estudante da Trybe, futuro desenvolvedor full-stack. 
-Apaixonado por tecnologia, esportes, livros e drones.
+Desenvolvedor full-stack. 
+
+## Stack 
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,py,ts,react,vite,docker,sequelize,git,mysql,nodejs,jest&perline=6)](https://skillicons.dev)
+
+
+## Contact
+
+<a href="https://www.instagram.com/iesleyferreira/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="www.linkedin.com/in/iesley-ferreira" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://whatsa.me/5553984097585" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=whatsapp" />
+</a>
+<a href="mailto:iesley_ferreira@hotmail.com?subject=Fala comigo!&body=" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://github.com/iesley-ferreira">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iesley-ferreira&show_icons=true&count_private=true&theme=radical"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesley-ferreira&layout=compact&theme=radical"/>
-</a>
-
-## Stack utilizada
-
-**Tecnologias:**   
-<a href="https://github.com/iesley-ferreira/github-readme-stats">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-<a href="https://github.com/iesley-ferreira/github-readme-stats">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-<a href="https://github.com/iesley-ferreira/github-readme-stats">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</a>
-<a href="https://github.com/iesley-ferreira/github-readme-stats">
-  <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</a>
-
-
-## Feedback
-
-Se você tiver algum feedback, por favor entre em contato.
-<br>
-<br>
-<a href="https://www.instagram.com/iesleyferreira/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="www.linkedin.com/in/iesley-ferreira" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://whatsa.me/5553984097585" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="mailto:iesley_ferreira@hotmail.com?subject=Fala comigo!&body=" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  
 </a>
