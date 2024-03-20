@@ -1,4 +1,4 @@
-- uses: Platane/snk@v3
+- uses: Platane/snk/svg-only@v3
   with:
     
     github_user_name: ${{ iesley-ferreira }}
