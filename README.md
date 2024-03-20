@@ -20,14 +20,12 @@ My name is Iesley i'm a full-stack Developer.
 <a href="mailto:iesley_ferreira@hotmail.com?subject=Fala comigo!&body=" target="_blank">
   <img align="center"  src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<br>
-<br>
-<br>
-<br>
 
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://github.com/iesley-ferreira">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iesley-ferreira&show_icons=true&count_private=true&theme=radical"/>
 </a>
-
-
