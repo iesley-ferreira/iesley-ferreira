@@ -1,10 +1,13 @@
 ## Hey 👋 What's up?
 My name is Iesley i'm a full-stack Developer. 
 
+<br>
+
 ## I code with
 
 [![My Skills](https://skillicons.dev/icons?i=js,java,py,ts,react,vite,docker,sequelize,git,mysql,nodejs,jest&perline=6)](https://skillicons.dev)
 
+<br>
 
 ## Contact
 
