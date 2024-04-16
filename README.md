@@ -1,5 +1,5 @@
 ## Hey 👋 What's up?
-My name is Iesley i'm a full-stack Developer. 
+My name is Iesley, i'm a full-stack Developer. 
 
 <br>
 
