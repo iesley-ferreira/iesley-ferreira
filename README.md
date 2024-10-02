@@ -11,7 +11,7 @@ Olá! Eu sou o Iesley Ferreira, desenvolvedor full-stack de Rio Grande, RS. Tenh
 - 💼 Estou sempre em busca de novos desafios e aprendizados para acelerar meu crescimento na carreira de desenvolvimento.
 - 💬 Adoro compartilhar conhecimento e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me perguntar qualquer coisa!
 - 📫 Entre em contato comigo pelo e-mail **deviesleyferreira@gmail.com** para me encontrar.
-- 📝 Para mais informações sobre minha trajetória, você pode acessar meu [Curriculum Vitae]().
+- 📝 Para mais informações sobre minha trajetória, você pode acessar meu [Curriculum Vitae](curriculo.pdf).
 
 <br>
 
