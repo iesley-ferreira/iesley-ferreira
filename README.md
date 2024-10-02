@@ -63,4 +63,4 @@ Olá! Eu sou o Iesley Ferreira, desenvolvedor full-stack de Rio Grande, RS. Tenh
 
 ## Meu Portfólio
 
-Você pode conferir mais sobre meus projetos e habilidades no meu <a href="https://iesleyferreira.vercel.app/" target="_blank">portfólio online</a>.
+Você pode conferir mais sobre meus projetos e habilidades no meu [portfólio online](https://iesleyferreira.vercel.app/).
