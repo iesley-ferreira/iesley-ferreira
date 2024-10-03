@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu perfil 🖖!
-Olá! Eu sou o Iesley Ferreira, desenvolvedor full-stack de Rio Grande, RS. Tenho uma paixão por aprender e resolver problemas através da tecnologia, com foco em construir soluções eficientes e escaláveis. Atualmente, estou em busca da minha primeira oportunidade na área de tecnologia, onde posso aplicar meus conhecimentos e continuar a me desenvolver como profissional.
+Olá! Eu sou o Iesley Ferreira, desenvolvedor full-stack de Rio Grande, RS. Tenho uma paixão por aprender e resolver problemas através da tecnologia, com foco em construir soluções eficientes e escaláveis. Atualmente, estou em busca da minha primeira oportunidade na área de tecnologia, onde possa aplicar meus conhecimentos e continuar a me desenvolver como profissional.
 
 <br>
 
@@ -7,7 +7,7 @@ Olá! Eu sou o Iesley Ferreira, desenvolvedor full-stack de Rio Grande, RS. Tenh
 
 - 👨🏽‍💻 Atualmente, estou estudando **Java e Orientação a Objetos** para criar códigos mais estruturados e reutilizáveis, sempre buscando seguir as melhores práticas de desenvolvimento.
 - 🌱 Estou aprendendo sobre **testes de integração** em APIs, com foco em garantir a robustez e a confiabilidade de aplicações web.
-- 🤔 Nos meus momentos livres, gosto de explorar hobbies como pilotar drones, jogar online e praticar esportes, o que me ajuda a manter a mente ativa e criativa.
+- 🤔 Nos meus momentos livres, gosto de explorar hobbies como drones, jogar online e praticar esportes, o que me ajuda a manter a mente ativa e criativa.
 - 💼 Estou sempre em busca de novos desafios e aprendizados para acelerar meu crescimento na carreira de desenvolvimento.
 - 💬 Adoro compartilhar conhecimento e ajudar a comunidade de desenvolvedores. Sinta-se à vontade para me perguntar qualquer coisa!
 - 📫 Entre em contato comigo pelo e-mail **deviesleyferreira@gmail.com** para me encontrar.
